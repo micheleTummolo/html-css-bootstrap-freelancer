@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Services classes */
+    .border-black {
+        border: 1px solid black;
+    }
+
+    .border-red {
+        border: 1px solid red;
+    }
+
+    .border-blue {
+        border: 1px solid blue;
+    }
+/* Services classes */
+
+/* Colors */
+    .bk-dk-blue {
+        background-color: #2C3E50;
+    }
+
+    .bk-green {
+        background-color: #1ABC9C;
+    }
+/* Colors */
