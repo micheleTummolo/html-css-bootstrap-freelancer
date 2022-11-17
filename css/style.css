@@ -100,3 +100,24 @@
         border-radius: 5px;
     }
 /* Card */
+
+/* About section */
+    .paragraph {
+        font-size: 1.3rem;
+        font-weight: 700;
+
+    }
+
+    .button {
+        width: 7rem;
+        border: 1px solid white;
+        border-radius: 5px;
+        font-size: 1rem;
+        font-weight: 500;
+        padding: .2rem .1rem;
+    }
+
+    .button i {
+        margin-right: .2rem;
+    }
+/* About section */
