@@ -16,7 +16,15 @@
     .border-blue {
         border: 1px solid blue;
     }
+
+    .w-100 {
+        width: 100%;
+    }
 /* Services classes */
+
+/* Flex */
+
+/* Flex */
 
 /* Colors */
     .bk-blue {
@@ -30,4 +38,47 @@
     .bk-green {
         background-color: #1ABC9C;
     }
+
+    .bk-white {
+        background-color: white;
+    }
+
+    .cl-white {
+        color: white;
+    }
 /* Colors */
+
+/* Headings */
+    h1 {
+        font-size: 2.5rem;
+        font-weight: 600;
+    }
+
+    h2 {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+
+    h3 {
+        font-size: 1.2rem;
+        font-weight: 600;
+    }
+/* Headings */
+
+/* Divosor */
+    .line {
+        height: .3rem;
+        width: 7rem;
+        border-radius: 2rem;
+    }
+
+    .divisor i {
+        margin: 0 .5rem;
+    }
+/* Divosor */
+
+/* Jumbotron */
+    #avatar {
+        max-width: 390px;
+    }
+/* Jumbotron */
