@@ -43,8 +43,20 @@
         background-color: white;
     }
 
+    .bk-black {
+        background-color: black;
+    }
+
     .cl-white {
         color: white;
+    }
+
+    .cl-black {
+        color: black;
+    }
+
+    .cl-dk-blue {
+        color: #2C3E50;
     }
 /* Colors */
 
@@ -82,3 +94,9 @@
         max-width: 390px;
     }
 /* Jumbotron */
+
+/* Card */
+    .card img {
+        border-radius: 5px;
+    }
+/* Card */
