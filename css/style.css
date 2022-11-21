@@ -77,6 +77,18 @@
     }
 /* Headings */
 
+/* Header */
+    .logo {
+        font-weight: 900;
+        font-size: 1.5rem;
+    }
+
+    .menu {
+        font-size: .9rem;
+        font-weight: 600;
+    }
+/* Header */
+
 /* Divosor */
     .line {
         height: .3rem;
@@ -115,6 +127,7 @@
         font-size: 1rem;
         font-weight: 500;
         padding: .2rem .1rem;
+        cursor: pointer;
     }
 
     .button i {
